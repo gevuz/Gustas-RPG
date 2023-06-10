@@ -4,4 +4,4 @@ permalink: /
 layout: default
 ---
 # Classes
-[O Tirano](Tirano.md)
+[O Tirano](https://gevuz.github.io/Gustas-RPG/Tirano.md)
