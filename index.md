@@ -3,5 +3,5 @@ title: "Gustas RPG"
 permalink: /
 layout: default
 ---
-
-[https://github.com/gevuz/Gustas-RPG/blob/main/Tirano.md](O Tirano)
+# Classes
+[O Tirano](https://github.com/gevuz/Gustas-RPG/blob/main/Tirano.md)
